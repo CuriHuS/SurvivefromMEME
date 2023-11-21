@@ -4,6 +4,8 @@
 장르: 2D 장애물 피하기 게임
 <br>
 제목: 쇼츠만 본지 30년하고 8개월 내가 던전을 깰 수 있을 리 없잖아 무리무리! (※ 무리가 아니었다?!)
+<br>
+플레이 영상: https://youtu.be/TnGSAI4c7uI
 
 
 <img src="https://github.com/CuriHuS/SurvivefromMEME/assets/64942546/0ca6b2b2-6a31-4065-bf1b-38e178b4e89e.png" width="600" height="300"/>
