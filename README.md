@@ -11,6 +11,9 @@
 <img src="https://github.com/CuriHuS/SurvivefromMEME/assets/64942546/0ca6b2b2-6a31-4065-bf1b-38e178b4e89e.png" width="600" height="300"/>
 <br>
 
+### 게임 다운로드
+- GitHub release 페이지 참고
+
 ### 제작 의도
 인간은 석기 시대부터 포식자의 위협으로부터 도망치고 회피하였다.
 <br> 진화심리학 이론에 따라 포식자의 위협을 느끼지 못하는 인간들은 진화에 불리했고
